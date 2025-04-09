@@ -20,7 +20,7 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 ### 1. Customer Segmentation
 
-**🖥️ Query**: [1_customer_segmentation.sql](/Scripts/1_customer_segmentation.sql)
+**🖥️ Query**: [1_customer_segmentation.sql](1__customer_segmentation.sql)
 
 - Categorized customers based on total lifetime value (LTV)
 - Assigned customers to High, Mid, and Low-value segments
@@ -71,7 +71,7 @@ Investigate Monthly Revenue & Customer Trends (3 Month Rolling Average)
 - Investigate cohort differences by applying successful strategies from high-spending cohorts (2016-2018) to newer ones.
 
 ### 3. Customer Retention
-🖥️ Query: [3_retention_analysis.sql](/Scripts/2_retention_analysis.sql)
+🖥️ Query: [3_retention_analysis.sql](3_retention_analysis.sql)
 
 - Identified customers at risk of churning
 - Analyzed last purchase patterns
